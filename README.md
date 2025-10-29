@@ -1,1 +1,1 @@
-# Ice-Cream-Parlor-algo
+# Ice-Cream-Parlor-algo The function finds two ice cream flavors whose prices add up to the given amount m using a hash map for quick lookup. It returns their 1-based indices as required by the problem.
